@@ -20,7 +20,7 @@
     "aws-sdk": "^2.450.0",
     "b64-to-blob": "^1.2.19",
     "base64-image-upload": "^1.1.4",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "bluebird": "^3.5.3",
     "cookie-parser": "^1.4.4",
